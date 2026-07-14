@@ -679,3 +679,9 @@ img {
 .modal-submit-btn:focus {
   background-color: #404bbf;
 }
+
+.portfolio-img {
+  width: 100%;
+  aspect-ratio: 6 / 5;
+  object-fit: cover;
+}
